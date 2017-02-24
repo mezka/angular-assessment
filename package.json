@@ -1,0 +1,23 @@
+{
+  "name": "angular-assessment",
+  "version": "1.0.0",
+  "description": "This assessment is intended to assess your skills and knowledge of Angular concepts.",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezka/angular-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mezka/angular-assessment/issues"
+  },
+  "homepage": "https://github.com/mezka/angular-assessment#readme",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "^0.4.2"
+  }
+}
